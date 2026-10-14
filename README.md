@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🚀 My HackerRank Coding Status
+🚀 My HackerRank Coding Status
 <a href="https://hackerrank.com">
-  <img src="https://vercel.app" alt="HackerRank Stats" />
+  <img src="https://vercel.app" alt="HackerRank Status" />
 </a>
+
 
