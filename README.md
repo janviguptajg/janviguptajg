@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🚀 My HackerRank Coding Status
-
-<a href="https://hackerrank.com" target="_blank">
-  <img src="https://vercel.app" alt="HackerRank Status" />
-</a>
+https://www.hackerrank.com/profile/2k25cse2514244 
 
